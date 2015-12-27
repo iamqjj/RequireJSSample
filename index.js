@@ -1,7 +1,7 @@
 requirejs.config({
-    baseUrl: 'js',
+    baseUrl: 'js/subjs',
     paths: {
-        main: '../main'
+        main: '../../main'
     }
 });
 

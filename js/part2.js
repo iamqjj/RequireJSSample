@@ -1,6 +1,6 @@
 require.config({
 　　　　paths: {
-　　　　　　"part2sub": "subjs/part2sub", //从当前路径开始的文件夹
+　　　　　　"part2sub": "./subjs/part2sub", //从当前路径开始的文件夹  等同于subjs/part2sub
 　　　　}
 　　});
 

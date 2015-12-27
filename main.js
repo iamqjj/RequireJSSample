@@ -1,5 +1,6 @@
 require.config({
 　　　　baseUrl: "js",//从根路径开始的文件夹，非当前路径开始
+					// 内层的baseurl会覆盖外层的baseurl
 　　　　paths: {
 　　　　　　"part1": "part1",  
 			"part2": "part2",
